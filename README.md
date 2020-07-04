@@ -52,6 +52,15 @@ $ Passcode : samplepassword
 
 ![Alt text](https://github.com/charlievc/webscrape_recruitment-tool-skillset-mapping/blob/master/img_sample/file_csv.jpg)
 
-* Right click the CSV file, select 'Open with', then choose 'Microsoft Office Excel'. Aaand we're done!
+* Right click the CSV file, select 'Open with', then choose 'Microsoft Office Excel'. 
 
 ![Alt text](https://github.com/charlievc/webscrape_recruitment-tool-skillset-mapping/blob/master/img_sample/file_xls.jpg)
+
+* Here's another sample output having 'Java Developer', 'Singapore', and 'Employee' as the filter criteria.
+
+![Alt text](https://github.com/charlievc/webscrape_recruitment-tool-skillset-mapping/blob/master/img_sample/file_emp_xls.jpg)
+
+
+Aaand we're done! So whether we want to obtain a list of contacts for headhunting purposes, or for mere curiosity regarding skillset analytics, I reckon this tool does the trick. 
+
+Gracias.
