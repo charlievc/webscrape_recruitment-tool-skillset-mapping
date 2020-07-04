@@ -63,4 +63,4 @@ $ Passcode : samplepassword
 
 Aaand we're done! So whether we want to obtain a list of contacts for headhunting purposes, or for mere curiosity regarding skillset analytics, I reckon this tool does the trick. 
 
-Gracias.
+Gracias for reading. 😎
