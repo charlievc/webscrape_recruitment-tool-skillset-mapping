@@ -1,8 +1,9 @@
-# webscrape_recruitment-tool-skillset-mapping
+# webscrape_recruitment-tool-skillset-scraper
  Webscraping Job Portal via Skillset
 
 ## Introduction
-This serves as a tool for finding companies or people with a specific skillset in mind. It runs on a web browser, conducts filtered search on the indicated job portal, and prints out search results to a csv file -- all done automatically. Though I must say, it is prone to CAPTCHAs as we are technically webcrawling. :)
+This is a web crawler that scrapes general public information from Google & LinkedIn base on user input (if you are trying to find companies or people with a specific skillset in mind). It runs on a web browser. Results are written onto a csv file for further analytics processing. 
+Side note: Prone to CAPTCHAs!
 
 The creation of this project is as requested by a technical recruiter.
 
